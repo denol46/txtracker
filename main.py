@@ -34,7 +34,7 @@ blockchains = {
         'api_url': "https://api.arbiscan.io/api",
         'api_key': "YourApiKeyToken"
     },
-    # Add similar entries for other blockchains
+    # other
 }
 
 def display_menu():
